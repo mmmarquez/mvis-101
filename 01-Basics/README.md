@@ -13,23 +13,20 @@
 ```
 
 ## Today:
-- Syllabus Review
-- Interactive Installations
-- 11 am Fab labs tour
-- Lunch (bring arduino back)
-- Capacitive Touch & Jeopardy Review
-- 
+- Intro
+- Syllabus & Resources
+- Web Context
+    - HTML
+    - DOM
+    - CSS
+    - SVG
+    - JavaScript
 
-## Interactive Installation
+## Intro
 
 The following slideshow presents the beginnings of interactive installation. This will just scratch the surface. This week's reading will go much more in depth with the history of installation art.
 
-[Slideshow](https://docs.google.com/presentation/d/e/2PACX-1vSmROz3V37juXC6d_RT4RsegCrwS0Ow2AoNIkXwoqTtoTFokuYpdhISdHEPoohFJQdD7QNLpT1UJ4ow/pub?start=false&loop=false&delayms=3000)
-
-
-## Capacitive Touch
-[Slideshow](https://docs.google.com/presentation/d/e/2PACX-1vT-ffr5oNotB4QA9EEm7dnuMZQRRQBuEwBF_M9sP7DskzygoUJWNb1OPCB_SnjRXXnJLSQAoM2ZX97U/pub?start=false&loop=false&delayms=3000)
-
+## Syllabus
 
 Next week, we will be making interactive video installations in class using Bare Conductive Touch boards and MadMapper.
 
@@ -41,7 +38,7 @@ Next week, we will be making interactive video installations in class using Bare
 
 ["Mechanique Discursive"](https://vimeo.com/38945809), by Legoman, 2012
 
-## Homework
+## Resources
 Two teams of seven. Each choose a Rube Goldberg Invention with at least seven steps in it.
 [Link](https://www.rubegoldberg.com/artwork/send-late-stayer-home/?c=45)
 Each person should choose a step in the machine and make an animation in processing that evokes what happens in that step. It can be abstract or pictorial. I will show you how to turn it into a .mov file next week.
