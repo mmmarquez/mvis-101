@@ -12,7 +12,6 @@
 └─────────────────────────────────────────────┘
 ```
 
-## Today:
 - Intro
 - Syllabus & Resources
 - Web Context
