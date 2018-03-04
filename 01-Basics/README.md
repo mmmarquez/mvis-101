@@ -13,7 +13,6 @@
 ```
 
 ## Today:
-- Mindful exercises
 - Syllabus Review
 - Interactive Installations
 - 11 am Fab labs tour
