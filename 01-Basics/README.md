@@ -50,7 +50,7 @@ Web browsers parse the DOM in order to make sense of a page’s content.
 ### CSS
 Cascading Style Sheets are used to style the visual presentation of HTML pages. A simple CSS stylesheet looks like this:
 
-```html
+```css
 body {
     background-color: white;
     color: black;
