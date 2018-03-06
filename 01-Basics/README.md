@@ -117,6 +117,8 @@ This is how a basic HTML document looks like, based on the contents above.
 
 ## Excercise
 
-Let's go to http://codepen.io and click on **Create > New Pen**
+Let's go to http://codepen.io
+- Create New Pen
 
 ![alt text](https://cdn.pbrd.co/images/HaAbWRG.gif "Logo Title Text 1")
+
