@@ -248,6 +248,16 @@ _*js_
 **Check Out Grasshopper**
 - http://grasshopper.codes/ 
 
+
+```
+  oo____oo_oo____oo____oo_ 
+  oo____oo_oo____oo____oo_ 
+  oo____oo_oo____oo____oo_ 
+  oooooooo__oo__oooo__oo__ 
+  oo____oo___oooo__oooo___ 
+  oo____oo____oo____oo____ 
+  ________________________ 
+```
 **DUE! FRIDAY MARCH 23rd** 
 - Codepen + ZIP export
 
