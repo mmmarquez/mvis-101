@@ -1,5 +1,5 @@
-# Information Visualization YR6 | Programming Bootcamp Pilot
-## MVIS-101
+# MVIS-101
+## Information Visualization YR6 | Programming Bootcamp Pilot
 
 ### COURSE DESCRIPTION
 During this course, students will be introduced to programming for the web. The course will cover basic programming languages and tools used to build web pages, host and deploy sites. Students will also learn to use data to create interactive visualizations.
