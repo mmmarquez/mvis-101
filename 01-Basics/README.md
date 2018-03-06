@@ -111,7 +111,7 @@ We can include scripts directly in the HTML, between two `<script>` tags.
 
 ## Putting it All Together
 
-- The most basic HTML template, with inline `<style>` and `<script>`
+The most basic HTML template, with inlined `<style>` and `<script>` for clarity.
 
 ```html
 <!DOCTYPE html>
@@ -199,7 +199,7 @@ Follow along!
     // document.querySelector("p").style.background = "purple";
 ```
 
-#### HOMEWORK
+## HOMEWORK
 
 **PLEASE** experiment!
 
