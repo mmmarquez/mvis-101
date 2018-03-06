@@ -29,10 +29,19 @@ Today we are goign to make use of the following services:
 Please make sure to sign up since we'll be using these tools as we go over the content of the lesson.
 
 ## Resources
-- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf
-- http://www.pxleyes.com/blog/wp-content/uploads/2010/03/css-cheatsheet-portrait.pdf
+- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf (HTML Cheat Sheet)
+- https://devhints.io/css (CSS Cheat Sheet)
+
+- http://interactivepython.org/runestone/static/pythonds/_images/htmltree.png 
+- 
 
 ## Web Context
+
+- Accesible
+- Universal
+- Reach
+- Open Source
+- Community
 
 ### HTML
 Hypertext Markup Language is used to structure content for web browsers.
@@ -49,6 +58,9 @@ Hypertext Markup Language is used to structure content for web browsers.
     </body>
 </html>
 ```
+
+![alt text](https://cdn.pbrd.co/images/HaAykpF.png "Tree View")
+
 
 ### DOM
 _The Document Object Model_ is the hierarchical representation of the structure of HTML. Each bracket is considered an _element_.
@@ -67,9 +79,14 @@ CSS styles can be added directly to the HTML, between two `<style>` tags.
 
 ```html
 <style>
+    /* css styles */
     body {
-        background-color: white;
-        color: black;
+        background-color: teal;
+        color: gold;
+    }
+    p {
+        color: white;
+        background: black;
     }
 </style>
 ```
@@ -83,15 +100,16 @@ We can include scripts directly in the HTML, between two `<script>` tags.
 
 ```html
 <body>
+    <!-- JavaScript -->
     <script>
-        alert("Hello, world!");
+        alert("Hi!");
     </script>
 </body>
 ```
 
 ## Putting it All Together
 
-This is how a basic HTML document looks like, based on the contents above.
+- The most basic HTML template, with inline `<style>` and `<script>`
 
 ```html
 <!DOCTYPE html>
@@ -100,8 +118,12 @@ This is how a basic HTML document looks like, based on the contents above.
         <title>Page Title</title>
         <style>
             body {
-                background-color: white;
-                color: black;
+                background-color: teal;
+                color: gold;
+            }
+            p {
+                color: white;
+                background: black;
             }
         </style>
     </head>
@@ -116,9 +138,65 @@ This is how a basic HTML document looks like, based on the contents above.
 ```
 
 ## Excercise
+We'll be using Codepen.io online editor in this excercise. Make sure you are logged in.
 
+**Goals**
+- Get familiar with Codepen.io, a web based editor.
+    - I also encourage to take a look at Glitch https://glitch.com/ 
+- Understand the relationships between HTML, CSS and JS in a realtime environment.
+
+**Setup**
 Let's go to http://codepen.io
 - Create New Pen
+- Save the project following this pattern **MVIS-101-01_name-lastname**
+    - MVIS-101-01_mateo_marquez
+- Please share your Codepen URL / Username with the class.
 
-![alt text](https://cdn.pbrd.co/images/HaAbWRG.gif "Logo Title Text 1")
+![alt text](https://cdn.pbrd.co/images/HaAbWRG.gif "Codepen")
 
+**Build**
+
+Copy + paste this snippet in the HTML block.
+
+```html
+    <!-- 
+        Codepen.io generates all the necessary markup.
+        Anything that you include here will be in between <body>
+    -->
+    <h1>Title</h1>
+    <div>
+        <p>Some Content</p>
+        <p>More Content</p>
+    </div> 
+
+```
+
+Copy + paste this snippet in the CSS block.
+
+```css
+    /*
+    Comments :~)
+    */
+    body {
+        background-color: teal;
+        color: gold;
+    }
+    p {
+        color: white;
+        background: black;
+    }
+```
+
+Copy + paste this snippet in the JS block.
+
+```js
+
+    console.log("I'm useful")
+    // alert("Hello, world!");
+    // document.querySelector("p").style.background = "purple";
+
+```
+
+#### HOMEWORK
+
+- 
