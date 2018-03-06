@@ -11,7 +11,7 @@
 - Syllabus & Resources
 - Web Context
     - HTML
-    - DOM
+        - DOM   
     - CSS
     - SVG
     - JavaScript
@@ -42,7 +42,7 @@ Hypertext Markup Language is used to structure content for web browsers.
 </html>
 ```
 
-### DOM
+#### DOM
 The Document Object Model refers to the hierarchical structure of HTML. Each bracketed tag is an _element_, and we refer to elements’ relative relationships to each other in human terms: parent, child, sibling, ancestor, and descendant. In the HTML above, body is the parent element to both of its children, h1 and p (which are siblings to each other). All elements on the page are descendants of html.
 
 Web browsers parse the DOM in order to make sense of a page’s content.
