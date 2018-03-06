@@ -9,7 +9,7 @@
     - DOM   
     - CSS
     - JavaScript
-- Excercise
+- Exercise
 - Homework
 
 ## Intro
@@ -18,11 +18,11 @@ Hello!
 
 ## Syllabus
 
-Syllabus PDF can be found in the top nanvigation bar.
+Syllabus PDF can be found in the top navigation bar.
 
 ## Setup
 
-Today we are goign to make use of the following services:
+Today we are going to make use of the following services:
 
 - Github Account
 - Codepen Account
@@ -38,7 +38,7 @@ Please make sure to sign up since we'll be using these tools as we go over the c
 
 ## Web Context
 
-- Accesible
+- Accesible 
 - Universal
 - Reach
 - Open Source
@@ -203,7 +203,7 @@ Follow along!
 
 **PLEASE** experiment!
 
-**Create an analogy for the realationships between HTML/CSS/JS** 
+**Create an analogy for the relationships between HTML/CSS/JS** 
 
 - The best way to understand new concepts is to find familiar ways to relate to them! Describe _in some way_ the relationship you see between HTML/CSS/JS.
 - _Structure, Aesthetics, Function_
@@ -238,7 +238,7 @@ _*js_
 
 ```js
     // document.querySelector("element")
-    // this searchs for the specified element (and class or id)
+    // this search for the specified element (and class or id)
     // FLOW: read the document, find the element <p>, style the background purple.
     // SYNTAX IS VERY IMPORTANT, follow the pattern.
     // document.querySelector("li").style.width = "50%";

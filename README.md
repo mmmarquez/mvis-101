@@ -12,13 +12,12 @@ By the end of this course, you will...
 - Gain experience generating interactive visualizations.
 - Create a web-based visualization using a dataset
 
-
 ### Important Things to Remember
 - Help is always a click away; via the internet, your peers, or emailing me.
 - Mistakes are great ways to learn. Be courageous, fail flamboyantly, and know that you tried your best. Don't let fear or mistakes stand in your way of learning and creating.
 - Participation and collaboration are integral parts of this class's culture. This also means you come prepared to all of the classes, do the homework, and be engaged.
 -  Share what you learn along the way and collaborate with your peers. We are embodying an open source education model.
-- *REVIEW* You get one unexcused absence, the next diminishes your grade and the third gets an F. Please provide me with a doctors note if you are sick. Talk to me if you have an extended leave of absence.
+- You get one unexcused absence, the next diminishes your grade and the third gets an F. Please provide me with a doctors note if you are sick. Talk to me if you have an extended leave of absence.
 
 ### Online Resources
 This is a working list I will be adding to, and I hope you let me know if you find great resources you'd like me to add.
