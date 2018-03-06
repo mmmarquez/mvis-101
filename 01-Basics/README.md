@@ -21,6 +21,7 @@ Hello!
 Syllabus PDF can be found in the top nanvigation bar.
 
 ## Setup
+
 Today we are goign to make use of the following services:
 
 - Github Account
@@ -29,11 +30,11 @@ Today we are goign to make use of the following services:
 Please make sure to sign up since we'll be using these tools as we go over the content of the lesson.
 
 ## Resources
-- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf (HTML Cheat Sheet)
-- https://devhints.io/css (CSS Cheat Sheet)
 
-- http://interactivepython.org/runestone/static/pythonds/_images/htmltree.png 
-- 
+- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf/ (HTML Cheat Sheet)
+- https://devhints.io/css/ (CSS Cheat Sheet)
+- http://interactivepython.org/runestone/static/pythonds/_images/htmltree.png/
+
 
 ## Web Context
 
@@ -63,6 +64,7 @@ Hypertext Markup Language is used to structure content for web browsers.
 
 
 ### DOM
+
 _The Document Object Model_ is the hierarchical representation of the structure of HTML. Each bracket is considered an _element_.
 
 Human terms are used when referring to specific elements' relationships to each other, for example: parent, child, sibling, ancestor and descendant.
@@ -140,12 +142,12 @@ We can include scripts directly in the HTML, between two `<script>` tags.
 ## Excercise
 We'll be using Codepen.io online editor in this excercise. Make sure you are logged in.
 
-**Goals**
+### Goals
 - Get familiar with Codepen.io, a web based editor.
     - I also encourage to take a look at Glitch https://glitch.com/ 
 - Understand the relationships between HTML, CSS and JS in a realtime environment.
 
-**Setup**
+### Setup
 Let's go to http://codepen.io
 - Create New Pen
 - Save the project following this pattern **MVIS-101-01_name-lastname**
@@ -154,9 +156,11 @@ Let's go to http://codepen.io
 
 ![alt text](https://cdn.pbrd.co/images/HaAbWRG.gif "Codepen")
 
-**Build**
+### Build
 
-Copy + paste this snippet in the HTML block.
+Follow along!
+
+**HTML block**
 
 ```html
     <!-- 
@@ -171,11 +175,11 @@ Copy + paste this snippet in the HTML block.
 
 ```
 
-Copy + paste this snippet in the CSS block.
+**CSS block**
 
 ```css
     /*
-    Comments :~)
+        Comments :~)
     */
     body {
         background-color: teal;
@@ -187,16 +191,73 @@ Copy + paste this snippet in the CSS block.
     }
 ```
 
-Copy + paste this snippet in the JS block.
+**JS block**
 
 ```js
-
-    console.log("I'm useful")
+    console.log("I'm useful");
     // alert("Hello, world!");
     // document.querySelector("p").style.background = "purple";
-
 ```
 
 #### HOMEWORK
 
-- 
+**PLEASE** experiment!
+
+**Create an analogy for the realationships between HTML/CSS/JS** 
+
+- The best way to understand new concepts is to find familiar ways to relate to them! Describe _in some way_ the relationship you see between HTML/CSS/JS.
+- _Structure, Aesthetics, Function_
+- _HTML is the cake, CSS is the icing and JS is the..._
+
+**List of Interests** 
+
+- Create a new project in Codepen.io.
+    - Pattern: **MVIS-101-01_name-lastname_HW**
+- Using HTML, create an _*unordered list_ of personal interests.
+    - Websites, interests, words, etc.
+- Using HTML, create a `div` container and nest a `<p>` element.
+    - Use your **analogy** as the content.
+- Using CSS, add some styling to elements.
+    - Please refer to the **Resources** for CSS properties.
+- Using JS, interact with the document.
+    - See excercise!
+    - Change the _*properties_ of elements, display an alert box, etc.
+
+_*unordered list_
+
+```html
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    <!-- ..etc -->
+</ul>
+```
+
+_*js_
+
+```js
+    // document.querySelector("element")
+    // this searchs for the specified element (and class or id)
+    // FLOW: read the document, find the element <p>, style the background purple.
+    // SYNTAX IS VERY IMPORTANT, follow the pattern.
+    // document.querySelector("li").style.width = "50%";
+    document.querySelector("p").style.background = "purple";
+```
+
+**Check Out Grasshopper**
+- http://grasshopper.codes/ 
+
+**DUE! FRIDAY MARCH 23rd** 
+- Codepen + ZIP export
+
+_Please submit to CANVAS_
+
+
+
+
+
+
+
+
+

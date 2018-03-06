@@ -1,21 +1,3 @@
-```
-                                                             
-                                                             
-                                                             
-                                                             
-                                                             
- +-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+ 
- |I|n|f|o|r|m|a|t|i|o|n| |V|i|s|u|a|l|i|z|a|t|i|o|n| |Y|R|6| 
- +-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+ 
-    +-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+-+-+-+-+    
-    |P|r|o|g|r|a|m|m|i|n|g| |B|o|o|t|c|a|m|p| |P|i|l|o|t|    
-    +-+-+-+-+-+-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+-+-+-+-+    
-                                                             
-                                                             
-                                                             
-                                                             
-                                                             
-```
 # Information Visualization YR6 | Programming Bootcamp Pilot
 ## MVIS-101
 
@@ -44,7 +26,7 @@ This is a working list I will be adding to, and I hope you let me know if you fi
 - http://grasshopper.codes/ 🔥
 - https://www.freecodecamp.org/
 - https://eggehad.com/ 🔥
-- https://lynda.com 🔥
+- https://lynda.com
 - https://www.packtpub.com/
 - http://eloquentjavascript.net/
 - http://stackoverflow.com/
