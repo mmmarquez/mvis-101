@@ -38,7 +38,7 @@ Homework should be submitted in the respective assignment on Canvas.
 ### Submission Structure
 **Folder structure** is very important in this course and can teach us about best practices. Please follow accordingly.
 
-Folder contents will change between assignments, but keeping the **same structure** ensures consistency and other many other benefits.
+Folder contents will change between assignments, but keeping the **same structure** ensures consistency and many other benefits.
 
 **Root folder:** MVIS-101`_##_`first-name-last-name
 
