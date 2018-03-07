@@ -66,7 +66,47 @@ Refer to https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet f
 
 Compress (.zip) your assignment folder and submit to CANVAS.
 
-**Compressed Assignment:** MVIS-101`_##_`first-name-last-name.zip 
+**Compressed Assignment:** MVIS-101`_##_`first-name-last-name.zip
+
+### Course Schedule COURSE SCHEDULE
+**Week 1** Basics
+- Review web basics
+    - HTML
+    - CSS
+    - JavaScript
+    - Codepen
+
+**Week 2**  Tooling
+- Get familiar with the tools to be used during the course
+    - Code Editor
+    - NPM
+    - Zeit Now Deployments
+    - Terminal
+
+**Week 3** / JavaScript
+- Basic JavaScript concepts.
+    - JavaScript
+    - External Libraries
+
+**Week 4** / D3
+- Introduction to D3.js
+    - Pure D3 concepts
+    - Examples
+    - External datasets
+
+**Week 5** / Project Introduction
+- Create a data visualization using the concepts learned through the course
+    - Students can choose any data source whether it is publicly or personally available.
+    - External and real-time sources are encouraged but not required.
+    - Each student will showcase their visualization under the course website.
+
+**Week 6 + 7** / Project Progress & Review
+- Working weeks with weekly check in 🏗️
+    - Examples
+    - External datasets 
+
+**Week 8** / Virtual Exhibit
+- Showcase and review of each of the projects.
 
 ### Online Resources
 This is a working list I will be adding to, and I hope you let me know if you find great resources you'd like me to add.
