@@ -62,7 +62,6 @@ Hypertext Markup Language is used to structure content for web browsers.
 
 ![alt text](https://cdn.pbrd.co/images/HaAykpF.png "Tree View")
 
-
 ### DOM
 
 _The Document Object Model_ is the hierarchical representation of the structure of HTML. Each bracket is considered an _element_.
@@ -246,18 +245,12 @@ _*js_
 ```
 
 **Check Out Grasshopper**
-- http://grasshopper.codes/ 
-
+- http://grasshopper.codes/ (only android 😑)
 
 **DUE! FRIDAY MARCH 23rd** 
 - Codepen + ZIP export
 
-_Please submit to CANVAS_
-
-
-
-
-
+_Please submit to CANVAS and follow the required submission structure_
 
 
 
