@@ -1,6 +1,7 @@
 ## MVIS-101
 ## Information Visualization YR6 | Programming Bootcamp Pilot
 
+
 **Time:** Sundays 8:00 pm - 9:30 pm
 
 **Web:** https://mmarquez.xyz/course/mvis-101/
@@ -11,7 +12,7 @@
 
 **E-mail:** mmarquez@mica.edu
 
-### COURSE DESCRIPTION
+### Course Description
 During this course, students will be introduced to programming for the web. The course will cover basic programming languages and tools used to build web pages, host and deploy sites. Students will also learn to use data to create interactive visualizations.
 
 ### Learning Outcomes
