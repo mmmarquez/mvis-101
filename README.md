@@ -1,5 +1,6 @@
+# Information Visualization YR6 | Programming Bootcamp Pilot
 ## MVIS-101
-## Information Visualization YR6 | Programming Bootcamp Pilot
+
 
 
 **Time:** Sundays 8:00 pm - 9:30 pm
