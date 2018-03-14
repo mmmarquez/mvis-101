@@ -29,7 +29,7 @@ By the end of this course, you will...
 -  Share what you learn along the way and collaborate with your peers. We are embodying an open source education model.
 
 ### Deadlines
-All projects and homework are to be completed and submitted by Friday prior our regular class session. Unfinished work will not be discussed in class, however, once completed, documentation of late work can be submitted directly to me.
+All projects and homework are to be completed and submitted by Saturday afternoon prior our regular class session. Unfinished work will not be discussed in class, however, once completed, documentation of late work can be submitted directly to me.
 
 ### Submitting Homework
 Homework should be submitted in the respective assignment on Canvas.
@@ -41,11 +41,15 @@ Folder contents will change between assignments, but keeping the **same structur
 
 **Root folder:** MVIS-101`_##_`first-name-last-name
 
-- MVIS-101`_##_`first-name_last-name
-    - assets
-        - Files, folders, scripts, etc.
-    - README.md
-        - This is called a **Markdown** file. We'll be using this file/syntax to describe the project and include any required content.
+- [MVIS-101](#mvis-101)
+        - [Course Description](#course-description)
+        - [Learning Outcomes](#learning-outcomes)
+        - [Important Things to Remember](#important-things-to-remember)
+        - [Deadlines](#deadlines)
+        - [Submitting Homework](#submitting-homework)
+        - [Submission Structure](#submission-structure)
+        - [Course Schedule COURSE SCHEDULE](#course-schedule-course-schedule)
+        - [Online Resources](#online-resources)
 
 ![alt text](https://cdn.pbrd.co/images/HaJgq6Q.png "Folder")
 
