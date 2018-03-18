@@ -41,16 +41,6 @@ Folder contents will change between assignments, but keeping the **same structur
 
 **Root folder:** MVIS-101`_##_`first-name-last-name
 
-- [MVIS-101](#mvis-101)
-        - [Course Description](#course-description)
-        - [Learning Outcomes](#learning-outcomes)
-        - [Important Things to Remember](#important-things-to-remember)
-        - [Deadlines](#deadlines)
-        - [Submitting Homework](#submitting-homework)
-        - [Submission Structure](#submission-structure)
-        - [Course Schedule COURSE SCHEDULE](#course-schedule-course-schedule)
-        - [Online Resources](#online-resources)
-
 ![alt text](https://cdn.pbrd.co/images/HaJgq6Q.png "Folder")
 
 ```markdown

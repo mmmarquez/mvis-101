@@ -211,7 +211,7 @@ Follow along!
 **List of Interests** 
 
 - Create a new project in Codepen.io.
-    - Pattern: **MVIS-101-01_name-lastname_HW**
+    - Pattern: **MVIS-101-01_firstname-lastname_HW**
 - Using HTML, create an _*unordered list_ of personal interests.
     - Websites, interests, words, etc.
 - Using HTML, create a `div` container and nest a `<p>` element.
@@ -247,7 +247,7 @@ _*js_
 **Check Out Grasshopper**
 - http://grasshopper.codes/ (only android 😑)
 
-**DUE! FRIDAY MARCH 23rd** 
+**DUE! SATURDAY MARCH 24th** 
 - Codepen + ZIP export
 
 _Please submit to CANVAS and follow the required submission structure_
