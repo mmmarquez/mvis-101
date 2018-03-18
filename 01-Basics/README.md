@@ -215,8 +215,8 @@ Follow along!
     - Pattern: **MVIS-101-01_firstname-lastname_HW**
 - Using HTML, create an _*unordered list_ of personal interests.
     - Websites, interests, words, etc.
-- Using HTML, create a `div` container and nest a `<p>` element.
-    - Use your **analogy** as the content.
+- Using HTML, create a `div` container and nest other text element.
+    - Include a small personal bio.
 - Using CSS, add some styling to elements.
     - Please refer to the **Resources** for CSS properties.
 - Using JS, interact with the document.
