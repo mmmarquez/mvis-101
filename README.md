@@ -57,11 +57,16 @@ Place here any content, links or similar.
 Refer to https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet for formatting tips.
 ```
 
+Editor:
+**VS Code:** https://code.visualstudio.com/
+
 Compress (.zip) your assignment folder and submit to CANVAS.
 
 **Compressed Assignment:** MVIS-101`_##_`first-name-last-name.zip
 
-### Course Schedule COURSE SCHEDULE
+
+
+### Course Schedule
 **Week 1** Basics
 - Review web basics
     - HTML
