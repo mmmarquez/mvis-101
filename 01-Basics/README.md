@@ -26,6 +26,7 @@ Today we are going to make use of the following services:
 
 - Github Account
 - Codepen Account
+- **VS Code:** https://code.visualstudio.com/
 
 Please make sure to sign up since we'll be using these tools as we go over the content of the lesson.
 
@@ -38,7 +39,7 @@ Please make sure to sign up since we'll be using these tools as we go over the c
 
 ## Web Context
 
-- Accesible 
+- Accessible 
 - Universal
 - Reach
 - Open Source
@@ -138,8 +139,8 @@ The most basic HTML template, with inlined `<style>` and `<script>` for clarity.
 </html>
 ```
 
-## Excercise
-We'll be using Codepen.io online editor in this excercise. Make sure you are logged in.
+## Exercise
+We'll be using Codepen.io online editor in this exercise. Make sure you are logged in.
 
 ### Goals
 - Get familiar with Codepen.io, a web based editor.
@@ -219,7 +220,7 @@ Follow along!
 - Using CSS, add some styling to elements.
     - Please refer to the **Resources** for CSS properties.
 - Using JS, interact with the document.
-    - See excercise!
+    - See exercise!
     - Change the _*properties_ of elements, display an alert box, etc.
 
 _*unordered list_

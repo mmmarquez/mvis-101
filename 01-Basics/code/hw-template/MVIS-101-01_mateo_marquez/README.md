@@ -8,9 +8,7 @@
 
 Place here any content, links or similar.
 
-- https://codepen.io/....
-
-...more content.
+- https://codepen.io/mmarquez/..........
 
 ~~
 Refer to https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet for formatting tips.
