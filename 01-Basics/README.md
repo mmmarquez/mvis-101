@@ -31,9 +31,9 @@ Please make sure to sign up since we'll be using these tools as we go over the c
 
 ## Resources
 
-- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf/ (HTML Cheat Sheet)
-- https://devhints.io/css/ (CSS Cheat Sheet)
-- http://interactivepython.org/runestone/static/pythonds/_images/htmltree.png/
+- https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf (HTML Cheat Sheet)
+- https://devhints.io/css (CSS Cheat Sheet)
+- http://interactivepython.org/runestone/static/pythonds/_images/htmltree.png
 
 
 ## Web Context
