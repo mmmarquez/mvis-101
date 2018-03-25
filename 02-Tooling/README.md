@@ -122,18 +122,23 @@ document.querySelector("#main_circle").setAttribute("fill", "red");
 
 Google Chrome can help us debug and edit our code.
 
-```
+
+```bash
 option + command + i
 ```
+
 
 This will open the Dev Tools. You can see the JavaScript Console, DOM and Styles.
 
 
 ## Visual Studio Code
 
+
 Download & Install: https://code.visualstudio.com
 
+
 Feel free to use any other editor, but I'll be using VS Code for the rest of the course.
+
 
 Recommended Extensions:
 
@@ -145,9 +150,12 @@ Recommended Extensions:
 
 ## Node.js
 
+
 **macOs installations should be non trivial. If you use Windows and run into any issues, please let me know! We'll figure it out outside of the lesson time**
 
+
 Download & Install Node.js: https://nodejs.org/en/
+
 
 JavaScript server side development/runtime environment.
 
@@ -160,11 +168,15 @@ JavaScript server side development/runtime environment.
 
 Check out: https://www.npmjs.com/
 
+
 Javascript Package Manager. World largest software registry.
+
 
 Here we can find external libraries, code projects, useful snippets - and add them directly to our projects.
 
+
 We'll be using two packages: `now` and `serve`, but we'll cover the installation once we interact with the terminal.
+
 
 Please note NPM is not the only way to add external packages to your project, but it does streamline the process. We'll not be using `npm` to the full capacity, but I'll create code examples.
 
@@ -172,13 +184,18 @@ Please note NPM is not the only way to add external packages to your project, bu
 
 ![alt text](https://cdn.pbrd.co/images/HdxHwkn.gif "Terminal")
 
+
 Provides text-based access to the operating system. A text-based emulator that allow us interacting with files, tasks, etc.
+
 
 **Terminal** is the default for macOS/Linux, **Command Prompt** in Windows.
 
+
 There are many emulators available. I personally like Hyper since it can be edited with CSS/JS, making it extremely extendable. Not needed, but worth checking out!
 
-* Hyper: https://hyper.is/
+
+- Hyper: https://hyper.is/
+
 
 ### Useful commands
 
@@ -191,6 +208,7 @@ There are many emulators available. I personally like Hyper since it can be edit
 Check out the Cheat Sheet
 https://gist.github.com/poopsplat/7195274
 
+
 ## Zeit
 
 Platform to deploy and host websites, instantly.
@@ -200,25 +218,33 @@ Platform to deploy and host websites, instantly.
 - Select Individual Plan
 - Pick your Username
 
+
 ### Now CLI
 
 https://zeit.co/download#now-cli
 
+
 Now command line interface. This allow us to interact with Now through the terminal.
+
 
 ```bash
 ~ npm install -g now
 ```
 
+
 Let's login to our Zeit Now account:
+
 
 ```bash
 ~ now login
 ```
 
+
 Confirm the email sent and that's it!
 
+
 You can always donwload the binary/app directly from the link above.
+
 
 ### Now Desktop
 
@@ -400,10 +426,7 @@ Let's keep the same submission structure, but this time we are also goign to inc
 Refer to the code examples (hw-template) / resources at the top of the page.
 
 
-Please include your Zeit Now deployment URL in the makdown file.
-
-
-Let's go to http://codepen.io
+Please include your Zeit Now deployment URL and Alias URL in the markdown file.
 
 
 **Please Read Introduction**
