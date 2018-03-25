@@ -1,5 +1,25 @@
 # TOOLING
 
+- Intro
+- Resources
+- Review
+- SVG
+    - Creating SVGs
+    - Interacting with SVGs
+- Dev Tools
+- Visual Studio Code
+- Node.js
+    - NPM
+- Terminal
+- Zeit
+    - Now CLI
+    - Now Desktop
+- Excercise
+    - Structure
+    - Serving
+    - Deploying
+- Homework
+
 
 ## Intro
 
@@ -330,11 +350,15 @@ In the root directory, type in the Terminal:
 now
 ```
 
+
 If this is your first time, type `y` and `return` when prompted about the terms of your free plan.
+
 
 Now will copy the generated url to your clipboard:
 
+
 https://html-structure-kkecqllyog.now.sh/
+
 
 You can also do this using Now Desktop by draggin your project folder to it.
 
@@ -372,9 +396,12 @@ Create and deploy a web application, using the tools from this lesson.
 
 Let's keep the same submission structure, but this time we are also goign to include the local project, under the /assets folder.
 
-Refer to the code examples (hw/template) / resources at the top of the page.
+
+Refer to the code examples (hw-template) / resources at the top of the page.
+
 
 Please include your Zeit Now deployment URL in the makdown file.
+
 
 Let's go to http://codepen.io
 
@@ -382,6 +409,7 @@ Let's go to http://codepen.io
 **Please Read Introduction**
 
 - https://eloquentjavascript.net/00_intro.html
+
 
 **DUE! SATURDAY APRIL 1st**
 
