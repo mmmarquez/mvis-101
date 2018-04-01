@@ -134,7 +134,7 @@ if (10 === 10) {
 
 ### Arithmetic
 
-Collection of values.
+Math.
 
 ```js
 10 + 2;
@@ -175,10 +175,11 @@ Collection of values.
 Connecting strings.
 
 ```js
-"ho" +
-  "la"`half equals to: ${
-    1 / 2 // template literals // → "hola" // console.log("ho" + "la")
-  }`;
+"ho" + "la";
+// template literals
+// → "hola"
+// console.log("ho" + "la")
+`half equals to: ${1 / 2}`;
 // → "half equals to: 0.5"
 ```
 
