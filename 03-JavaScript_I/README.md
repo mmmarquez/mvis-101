@@ -31,7 +31,7 @@ Today:
 
 * http://eloquentjavascript.net/01_values.html
 * https://cdnjs.com/
-* https://drive.google.com/open?id=1y13d13YPgO81jhYKwxlenujVIPlKUE7_
+* https://drive.google.com/file/d/1ahdCcB2nl_02zTdQvFkH-U02bJThXM_J
 * https://www.w3schools.com/js/js_htmldom.asp
 
 ## Review
@@ -176,10 +176,9 @@ Connecting strings.
 
 ```js
 "ho" +
-  "la"// → "hola" // console.log("ho" + "la")
-
-  // template literals
-  `half equals to: ${1 / 2}`;
+  "la"`half equals to: ${
+    1 / 2 // template literals // → "hola" // console.log("ho" + "la")
+  }`;
 // → "half equals to: 0.5"
 ```
 
@@ -239,7 +238,7 @@ Maintaining state and remembering things.
 
 Values are tied to a value, but not forever.
 
-**No spaces, punctuation or special characters.**
+* No spaces, punctuation or special characters.
 
 ```js
 let myValue = 1 + 4;
@@ -308,7 +307,7 @@ Please include your deployment URL and your content in the markdown file.
 
 * http://eloquentjavascript.net/01_values.html
 * https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#DOM_and_JavaScript
-* https://drive.google.com/open?id=1y13d13YPgO81jhYKwxlenujVIPlKUE7_
+* https://drive.google.com/file/d/1ahdCcB2nl_02zTdQvFkH-U02bJThXM_J
 
 **DUE! SATURDAY APRIL 8th**
 
