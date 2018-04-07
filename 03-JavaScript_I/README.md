@@ -310,7 +310,7 @@ Please include your deployment URL and your content in the markdown file.
 * https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction#DOM_and_JavaScript
 * https://drive.google.com/file/d/1ahdCcB2nl_02zTdQvFkH-U02bJThXM_J
 
-**DUE! SATURDAY APRIL 8th**
+**DUE! SATURDAY APRIL 7th**
 
 * Local Project + ZIP export
 
