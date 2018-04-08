@@ -57,7 +57,7 @@ Let's take a couple of minutes to go over what we learned last lesson.
 
 ## Libraries
 
-Let's take a couple of minutes to go over what we learned last lesson.
+Some cool libraries.
 
 ### Mapbox
 
