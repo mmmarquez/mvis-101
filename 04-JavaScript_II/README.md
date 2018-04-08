@@ -26,6 +26,10 @@
 
 Today:
 
+* Vue.js
+
+  * http://connectpro39003801.adobeconnect.com/p8bub27eak2x/
+
 * JavaScript II
   * Functions, Control Flow, Data Structures
   * Mapbox, Celsium, Google Maps, Kartograph
@@ -501,6 +505,7 @@ As something extra, take a look at the D3.js Example Gallery https://github.com/
 * Use 🛑 **ONLY** JavaScript to generate the HTML elements. 🛑 Only elements allowed inside the `<body>` are the container elements that will nest your HTML.
 * Any deployment method.
 * Serve and work locally.
+* Include your project folder in the assets folder.
 * Include your research as content.
 * Include link to the D3.js example.
 * Include a sample of your data set as a list in the HTML.
@@ -521,7 +526,7 @@ Please include your deployment URL and your content in the markdown file.
 * http://eloquentjavascript.net/04_data.html
 * https://github.com/d3/d3/wiki/Gallery (choose example)
 
-**DUE! SATURDAY APRIL 7th**
+**DUE! SATURDAY APRIL 14th**
 
 * Local Project + ZIP export
 
