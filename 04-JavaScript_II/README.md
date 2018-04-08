@@ -492,11 +492,13 @@ myMapData.forEach((x, index) => {
 });
 ```
 
-Take a look at the D3.js Example Gallery https://github.com/d3/d3/wiki/Gallery and choose one visualization that interests you.
+As something extra, take a look at the D3.js Example Gallery https://github.com/d3/d3/wiki/Gallery and choose one visualization that interests you.
+
+**Next Week** we'll dig into the basics of D3.js 📈🔥
 
 ### Requirements
 
-* Use **ONLY** JavaScript to generate the HTML elements. Only elements allowed inside the `<body>` are the container elements that will nest your HTML.
+* Use 🛑 **ONLY** JavaScript to generate the HTML elements. 🛑 Only elements allowed inside the `<body>` are the container elements that will nest your HTML.
 * Any deployment method.
 * Serve and work locally.
 * Include your research as content.
