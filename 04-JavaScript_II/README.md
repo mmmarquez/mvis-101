@@ -258,7 +258,7 @@ switch (myData) {
 Data sets and collections.
 
 ```js
-['a', 'ty' '0']
+['a', 'ty', '0']
 { value: 'sfd', value: 'sdsd' }
 ```
 
@@ -267,11 +267,11 @@ Data sets and collections.
 List of values between square brackets, separated by commas.
 
 ```js
-let myArray = ['a', 'ty' '0']
+let myArray = ["a", "ty", "0"];
 // [0, 6, 98, 1]
 // index = [index]
 
-myArray[1]
+myArray[1];
 // > ty
 
 // USEFUL: length
@@ -279,7 +279,7 @@ myArray[1]
 
 // USEFUL: push
 // myArray.push('s')
-// > ['a', 'ty' '0', 's']
+// > ['a', 'ty', '0', 's']
 ```
 
 #### forEach
@@ -287,14 +287,14 @@ myArray[1]
 Looping through the values of an array.
 
 ```js
-let myArray = ['a', 'ty' '0']
+let myArray = ["a", "ty", "0"];
 
 myArray.forEach((x, index) => {
-  console.log(x, index)
+  console.log(x, index);
   // > a, 0
   // > ty, 1
   // > 0, 2
-})
+});
 ```
 
 ### Objects
@@ -334,16 +334,16 @@ We can combine and nest.
 
 ```js
 let myData = [
-  { name: 'Mateo' age: 30, specie: 'human' },
-  { name: 'Huey' age: 12, specie: 'dog'  }
-]
+  { name: "Mateo", age: 30, specie: "human" },
+  { name: "Huey", age: 12, specie: "dog" }
+];
 
 myData.forEach((entry, index) => {
-  console.log(entry, index)
+  console.log(entry, index);
   // entry.name
   // > Mateo
   // > Huey
-})
+});
 ```
 
 ## JavaScript : Transforms
@@ -444,7 +444,7 @@ listData.forEach((item, index) => {
   listItem.style.backgroundColor = "red";
 
   let nameText = document.createTextNode(item.name);
-  let listNode = listItem.appendChild(nameText);
+  listItem.appendChild(nameText);
 
   // Let's append the iteration to the master node element.
   ourList.appendChild(listItem);
