@@ -119,7 +119,7 @@ Please include your deployment URL and your content in the markdown file.
 * http://square.github.io/intro-to-d3/
 * https://www.dashingd3js.com/binding-data-to-dom-elements
 
-**DUE! SATURDAY APRIL 14th**
+**DUE! SATURDAY APRIL 21st**
 
 * Local Project + ZIP export
 
