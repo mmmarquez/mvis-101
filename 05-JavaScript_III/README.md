@@ -1,4 +1,4 @@
-# JavaScript II
+# JavaScript III
 
 * Intro
 * Resources
