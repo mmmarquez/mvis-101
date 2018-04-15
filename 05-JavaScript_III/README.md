@@ -29,7 +29,7 @@
 
 ## VS Extension
 
-**Live Server**
+### Live Server
 
 This handy extension will automatically sets a server for our project and provides auto refresh.
 Very easy alternative from Serve.
@@ -51,6 +51,13 @@ Let's take a couple of minutes to go over what we learned last lesson.
 ## Lesson Content
 
 As we dig deeper in JavaScript, it only makes sense to use the editor for everything. Please check out the project sample under Resources / Code at the top of the page. Here we have our lesson with comments and working code.
+
+* Download the code files under Download Examples
+* Use d3-starter folder as your project folder.
+* Follow along the content in the script.js
+
+Alternatively, you can download the Code Examples here:
+https://github.com/mmmarquez/mvis-101/blob/master/05-JavaScript_III/resources/05_code.zip
 
 ## Homework
 
