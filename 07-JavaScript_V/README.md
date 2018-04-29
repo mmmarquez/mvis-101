@@ -8,6 +8,7 @@
   * Transitions
   * Build: Force Layout
   * Build: Bubble Graph
+  * Build: geoJSON Map
 * Final Project
 
 ## Intro
@@ -33,6 +34,17 @@
 * https://bl.ocks.org/denjn5/6d5ddd4226506d644bb20062fc60b53f
 * https://www.w3schools.com/js/js_events.asp
 * https://www.w3schools.com/jsref/dom_obj_event.asp
+* https://bl.ocks.org/mbostock/4090848
+* http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6 (V3)
+* https://bost.ocks.org/mike/map/
+* https://github.com/topojson/topojson/wiki/Gallery
+* https://d3js.org/us-10m.v1.json
+* http://geojson.org/
+* http://maptimeboston.github.io/
+* https://github.com/d3/d3-geo
+* https://github.com/maptime-ams/animated-borders-d3js
+* http://enjalot.github.io/intro-d3/maptime/
+* http://maptimesea.github.io/2015/01/07/d3-mapping.html
 
 ## Review
 
@@ -80,7 +92,7 @@ A project folder with the usual structure:
 An URL of the project.
 If you don't use Now or any similar deployment, please use glitch.com
 
-## DUE: Saturday May 4th
+## DUE: Saturday May 5th
 
 * Deployment URL.
 * Project folder structured correctly.

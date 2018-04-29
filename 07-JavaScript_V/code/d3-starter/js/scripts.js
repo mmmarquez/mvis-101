@@ -25,7 +25,8 @@
     ⚪ Sizing
     ⚪ Build: Force Layout
     ⚪ Build: Bubble Graph
-
+    ⚪ Build: GeoJson Map
+    ⚪ Build: topoJson Map
 */
 
 /*
@@ -202,3 +203,18 @@ window.addEventListener("resize", () => {
 */
 
 //~~~ Check bubble-graph.js for example.
+
+/*
+  ___  ___                  
+  |  \/  |                  
+  | .  . | __ _ _ __  ___   
+  | |\/| |/ _` | '_ \/ __|  
+  | |  | | (_| | |_) \__ \  
+  \_|  |_/\__,_| .__/|___/  
+               | |          
+               |_|          
+                            
+*/
+
+//~~~ Check geo-json.js for example.
+//~~~ Check topo-json.js for example.
