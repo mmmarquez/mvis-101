@@ -62,4 +62,3 @@ d3.json("./media/geo-data.json", data => {
     .attr("fill", "#ccc")
     .attr("d", geoPath);
 });
-

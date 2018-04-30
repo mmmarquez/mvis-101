@@ -27,9 +27,9 @@ This example is meant to be reused, just transform the data and play with it!
 
 */
 
-let bubbleSvg = d3.select("#bubble"),
-  bubbleWidth = +svg.attr("width"),
-  bubbleHeight = +svg.attr("height");
+let bubbleSvg = d3.select("#bubble");
+let bubbleWidth = +bubbleSvg.attr("width");
+let bubbleHeight = +bubbleSvg.attr("height");
 
 let format = d3.format(",d");
 

@@ -49,7 +49,9 @@ d3.csv("./media/sample.csv", data => {
     .enter() // enter the dataset -> execute for each item.
     .append("p") // append a <p> for each item.
     .text("~~~~~~") // add text to the <p>
-    .style("color", "blue"); // set styles for the <p>
+    .style("color", () => {
+      return "green";
+    }); // set styles for the <p>
 });
 
 /*
@@ -90,12 +92,12 @@ let eventSample = () => {
 let myButton = document.querySelector("#button"); // select your element
 
 // add the eventListener() method.
-myButton.addEventListener("click", () => {
-  // this is callback function.
-  // perform some logic here.
-  // this will only run when myButton is clicked.
-  console.log("event listener");
-});
+// myButton.addEventListener("click", () => {
+//   // this is callback function.
+//   // perform some logic here.
+//   // this will only run when myButton is clicked.
+//   console.log("event listener");
+// });
 
 /*
   _____ _     _              
@@ -116,19 +118,19 @@ myButton.addEventListener("click", () => {
 // `v` and `h` in example below seem a little wordy. We are performing checks, as browsers
 // deal with widths and heights differently.
 let myFunction = () => {
-  var w =
+  let w =
     window.innerWidth ||
     document.documentElement.clientWidth ||
     document.body.clientWidth;
-  var h =
+  let h =
     window.innerHeight ||
     document.documentElement.clientHeight ||
     document.body.clientHeight;
   console.log(`width: ${w} and heigth: ${h}`);
 };
 
-//myFunction(); // we run our function, initially. Otherwise, it would just run when resized.
-//window.addEventListener("resize", myFunction); // we add the event `resize` to the window object.
+myFunction(); // we run our function, initially. Otherwise, it would just run when resized.
+window.addEventListener("resize", myFunction); // we add the event `resize` to the window object.
 
 /*
 

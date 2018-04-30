@@ -35,7 +35,7 @@ function mouseOut(d, i) {
   d3
     .select(this)
     .transition()
-    .duration(1000)
+    .duration(5000)
     .style("background", "blue")
     .style("height", (d, i) => {
       return 60 + "px";
