@@ -31,11 +31,6 @@ Please keep in contact for anything you need -- questions, examples -- any help!
 
 ## Review Projects
 
-* xxxxx
-* xxxxx
-* xxxxx
-* xxxxx
-
 ## Github
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
@@ -51,12 +46,14 @@ I created some examples so you can refer back if needed. I'll be updating this r
 
 https://github.com/mmmarquez/d3-examples
 
+or under this week's `/code`
+
 * Bar
-* Line
 * Nested Pie
 * Queue
 * Force
 * Maps
+* Helpers
 
 ### Hello World Project
 
