@@ -1,98 +1,77 @@
-# JavaScript V
+# Final
 
 * Intro
 * Resources
-* Review
-* JavaScript V
-  * Events & Interactions
-  * Transitions
-  * Build: Force Layout
-  * Build: Bubble Graph
-  * Build: geoJSON Map
-* Final Project
+* Review Projects
+* Github
+  * D3 Examples
+* Build: Interactive Map
 
 ## Intro
 
-* JavaScript IV
-  * D3.js
-  * Events & Interactions
-  * Transitions
-  * Examples
-* Final Project
+Last class! 🙏
+
+* `Casually` discuss final projects.
+* Go over a few examples.
+* Very basic Github overview.
+* Build: Interactive map as a reusable component.
+
+### 📈 Thanks to all! 📉
+
+Please keep in contact for anything you need -- questions, examples -- any help! I'm always available and willing to help out!
 
 ## Resources
 
-* http://square.github.io/intro-to-d3/examples/
-* https://www.w3schools.com/jsref/event_onresize.asp
-* https://plainjs.com/javascript/styles/getting-width-and-height-of-an-element-23/
-* http://eyeseast.github.io/visible-data/2013/08/28/responsive-charts-with-d3/
-* https://bl.ocks.org/mbostock/4063269
-* https://github.com/d3/d3-hierarchy
-* https://gist.github.com/bhurlow/7087648
-* https://mbostock.github.io/d3/talk/20111018/pack.html
-* https://bl.ocks.org/mbostock/4063530
-* https://bl.ocks.org/denjn5/6d5ddd4226506d644bb20062fc60b53f
-* https://www.w3schools.com/js/js_events.asp
-* https://www.w3schools.com/jsref/dom_obj_event.asp
-* https://bl.ocks.org/mbostock/4090848
-* http://bl.ocks.org/lokesh005/7640d9b562bf59b561d6 (V3)
-* https://bost.ocks.org/mike/map/
-* https://github.com/topojson/topojson/wiki/Gallery
-* https://d3js.org/us-10m.v1.json
-* http://geojson.org/
-* http://maptimeboston.github.io/
-* https://github.com/d3/d3-geo
-* https://github.com/maptime-ams/animated-borders-d3js
-* http://enjalot.github.io/intro-d3/maptime/
-* http://maptimesea.github.io/2015/01/07/d3-mapping.html
+* https://bl.ocks.org
+* http://geojson.io/
+* https://data.baltimorecity.gov
+* https://data.baltimorecity.gov/Public-Safety/911-Police-Calls-for-Service/xviu-ezkt
+* https://github.com/mmmarquez/d3-examples
+* https://guides.github.com/activities/hello-world/
 
-## Review
+## Review Projects
 
-Let's take a couple of minutes to go over what we learned last lesson.
+* xxxxx
+* xxxxx
+* xxxxx
+* xxxxx
 
-* JavaScript
-* D3.js
-* Selections
-* External Data
+## Github
 
-## Lesson Content
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-As we dig deeper in JavaScript, it only makes sense to use the editor for everything. Please check out the project sample under Resources / Code at the top of the page. Here we have our lesson with comments and working code.
+* 1.  Create
+* 2.  Branch
+* 3.  Clone
+* 4.  Commit
 
-* Download the code files under Download Examples
-* Use d3-starter folder as your project folder.
-* Follow along the content in the script.js
-* Check the example scripts.
+I created some examples so you can refer back if needed. I'll be updating this repo as much as I can -- with experiments or whatever project related to D3.js or data.
 
-Alternatively, you can download the Code Examples here:
-https://github.com/mmmarquez/mvis-101/blob/master/07-JavaScript_V/resources/07_code.zip
+### D3 Examples
 
-## Final Project
+https://github.com/mmmarquez/d3-examples
 
-* Keep working on your project.
-* Let me know if you need any help! I'll be available all week if you have specific questions.
-* We'll go over each project next class, so make sure you submit something by Saturday.
+* Bar
+* Line
+* Nested Pie
+* Queue
+* Force
+* Maps
 
-### Project Structure
+### Hello World Project
 
-A project folder with the usual structure:
+https://guides.github.com/activities/hello-world/
 
-* index.html
-* css/
-  * styles.css
-* js
-  * scripts.js
-* media
-  * data.csv
-  * data2.csv
-  * image.png
+## Build: Map
 
-### Deployment
+We'll be building a simple map using Mapbox. Personally, Mapbox allow us to lay this project quicker -- not worrying that much about the topojson part of building in D3.js.
 
-An URL of the project.
-If you don't use Now or any similar deployment, please use glitch.com
+We are building this in a reusable manner, as a function. We can pass parameters to the function and it will generate a map based on the data we provided.
 
-## DUE: Saturday May 5th
+This will help us understand the importance of a modular approach and reusable components -- functions in other words.
 
-* Deployment URL.
-* Project folder structured correctly.
+### geojason.io
+
+We can create a geoJason formatted file with points we add.
+
+Refer to `~/code/mapbox-example` and follow along. We'll then see the final under `~/code/mapbox-function` as a reusable component.
